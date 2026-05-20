@@ -21,7 +21,6 @@ Program to find the L and U matrix.
 Developed by: venkatesh A
 RegisterNumber: 212225040485
 */
-<img width="582" height="297" alt="image" src="https://github.com/user-attachments/assets/ddc0a7be-7a34-4a50-8da4-fcb71ef27d32" />
 
 ```
 (ii) To find the LU Decomposition of a matrix
@@ -31,9 +30,12 @@ Program to find the LU Decomposition of a matrix.
 Developed by: venkatesh A
 RegisterNumber: 212225040485
 */
-<img width="550" height="392" alt="image" src="https://github.com/user-attachments/assets/3973cf7b-cbe6-4468-96ed-8cd023f8c6e3" />
+
 
 ```
+<img width="582" height="297" alt="image" src="https://github.com/user-attachments/assets/ddc0a7be-7a34-4a50-8da4-fcb71ef27d32" />
+<img width="550" height="392" alt="image" src="https://github.com/user-attachments/assets/3973cf7b-cbe6-4468-96ed-8cd023f8c6e3" />
+
 
 ## Output:
 ![lu decomposition]()
